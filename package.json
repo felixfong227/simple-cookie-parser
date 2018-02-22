@@ -1,0 +1,10 @@
+{
+  "name": "simple-cookie-parser",
+  "version": "1.0.0",
+  "description": "A super fast and ease to use cookie parser",
+  "main": "index.js",
+  "repository": "https://github.com/felixfong227/simple-cookie-parser",
+  "author": "Felix Fong <moongod101@hotmail.com> (https://felixfong227.ml)",
+  "license": "MIT",
+  "private": false
+}
